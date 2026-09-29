@@ -1,0 +1,1 @@
+# prelucrarea_imaginilor-proiect
