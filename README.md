@@ -11,3 +11,5 @@
 | 5 | Tianzhong Lan, Zhang Yi, Xiuyuan Xu, Min Zhu | LooBox: Loose-box-supervised 3D Tumor Segmentation with Self-correcting Bidirectional Learning | Imagistică medicală 3D – Segmentarea tumorilor bazată pe adnotări imprecise/largi (loose boxes) făcute de medici | Deep Learning, Arhitectură Co-teaching (UNet + adaptor de zgomot), Noise Cleaner, constrângeri de consistență | Autocorecție prin modulul Noise Cleaner (entropie, gradient, afinitate) și rectificare bidirecțională între două rețele neuronale paralele | Performanțe superioare supervizate prin cutii de încadrare pe seturile benchmark LIDC-IDRI, MSD-Lung și MSD-Pancreas | Sensibilitate la nivelul ridicat de zgomot din adnotările clinice foarte largi |
 
 ---
+<img width="752" height="1402" alt="Untitled Diagram" src="https://github.com/user-attachments/assets/d69ec315-049b-472e-9294-ba3f30013e04" />
+
